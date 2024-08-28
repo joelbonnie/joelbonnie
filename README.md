@@ -1,9 +1,10 @@
-## Hi there 👋
+## hii i'm joel aka joelexia online ʕ •ᴥ•ʔ
 
 <!--
 **joelbonnie/joelbonnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I love learning about new ML concepts, making fun projects and I usually get sidetracked ricing my Arch Linux (btw) setup. 
+
+I currently work as a Data Science Intern at MineSense, as well as TA CPSC213 (Intro to Systems) at UBC. 
+
+To look through my experiences and skills hop on by www.joelexia.net (and have a really fun time using a shell to go through my work!) or email me at contact@joelexia.net.
+
+Have a look at my projects below!! (✿◠‿◠)
