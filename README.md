@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 I love learning about new ML concepts, making fun projects and I usually get sidetracked ricing my Arch Linux (btw) setup. 
 
-I currently work as a Data Science Intern at MineSense, as well as TA CPSC213 (Intro to Systems) at UBC. 
+I currently work as a Data Science Intern at MineSense and TA CPSC213 (Intro to Systems) at UBC. 
 
-To look through my experiences and skills hop on by www.joelexia.net (and have a really fun time using a shell to go through my work!) or email me at contact@joelexia.net.
+To look through my experiences and skills hop on by www.joelexia.net (and have a really fun time using a shell to go through my work!) or email me at **contact [at] joelexia [dot] net**.
 
 Have a look at my projects below!! (✿◠‿◠)
