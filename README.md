@@ -20,6 +20,6 @@ I love learning about new ML concepts, making fun projects and I usually get sid
 
 I currently work as a Data Science Intern at MineSense and TA CPSC213 (Intro to Systems) at UBC. 
 
-To look through my experiences and skills hop on by www.joelexia.net (and have a really fun time using a shell to go through my work!) or email me at **contact [at] joelexia [dot] net**.
+To look through my experiences and skills hop on by www.joelb.co (and have a really fun time using a shell to go through my work!) or email me at **joelbcasp [at] gmail [dot] com**.
 
 Have a look at my projects below!! (✿◠‿◠)
