@@ -16,7 +16,7 @@ Have a look at my projects below!! (✿◠‿◠)
 
 #### Important Facts: 
 - My favourite boba flavour is Brown Sugar Pearl Milk Tea.
-- My favourite hotpot broth is tomoto (max spice). 
+- My favourite hotpot broth is Tomoto (max spice). 
 
 
 ### ML + DSCI Tech Stack:
