@@ -1,13 +1,22 @@
 ## hii i'm joel aka joelexia online ʕ •ᴥ•ʔ
 
 
-I love learning about new ML concepts, making fun projects and I usually get sidetracked ricing my Arch Linux (btw) setup. 
+Chronic learner and chill guy who's way too into Arch Linux (btw). 
 
-I currently work as a Data Science Intern at MineSense and TA CPSC213 (Intro to Systems) at UBC. 
+I currently work as a **Genomics Machine Learning Researcher** at the **Agency for Science, Technology and Research (A*STAR)** in Singapore. 
+
+My past experiences include: 
+- Data Science Co-op at MineSense
+- CPSC213 (Intro to Systems) TA at UBC (for 4 Terms so far!) 
+- BOLT UBC Software Engineering
 
 To look through my experiences and skills hop on by www.joelb.co (and have a really fun time using a shell to go through my work!) or email me at **joelbcasp [at] gmail [dot] com**.
 
 Have a look at my projects below!! (✿◠‿◠)
+
+#### Important Facts: 
+- My favourite boba flavour is Brown Sugar Pearl Milk Tea.
+- My favourite hotpot broth is tomoto (max spice). 
 
 
 ### ML + DSCI Tech Stack:
