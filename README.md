@@ -1,7 +1,7 @@
 ## hii i'm joel aka joelexia online ʕ •ᴥ•ʔ
 
 
-Chronic learner and chill guy who's way too into Arch Linux (btw). 
+Chronic learner who's way too into Arch Linux (btw). 
 
 I currently work as a **Genomics Machine Learning Researcher** at the **Agency for Science, Technology and Research (A*STAR)** in Singapore. 
 
