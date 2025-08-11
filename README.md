@@ -1,4 +1,4 @@
-## hii i'm joel aka joelexia online ʕ •ᴥ•ʔ
+## hi, i'm joel aka joelexia online ʕ •ᴥ•ʔ
 
 
 Chronic learner who's way too into Arch Linux (btw). 
@@ -10,11 +10,11 @@ My past experiences include:
 - CPSC213 (Intro to Systems) TA at UBC (for 4 Terms so far!) 
 - BOLT UBC Software Engineering
 
-To look through my experiences and skills hop on by www.joelb.co (and have a really fun time using a shell to go through my work!) or email me at **joelbcasp [at] gmail [dot] com**.
+To look through my experiences and skills, hop on by www.joelb.co (and have a really fun time using a shell to go through my work!) or email me at **joelbcasp [at] gmail [dot] com**.
 
 Have a look at my projects below!! (✿◠‿◠)
 
-#### Important Facts: 
+#### Fun Facts: 
 - My favourite boba flavour is Brown Sugar Pearl Milk Tea.
 - My favourite hotpot broth is Tomoto (max spice). 
 
