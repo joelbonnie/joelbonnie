@@ -10,7 +10,7 @@ My past experiences include:
 - CPSC213 (Intro to Systems) TA at UBC (for 4 Terms so far!) 
 - BOLT UBC Software Engineering
 
-To look through my experiences and skills, hop on by www.joelb.co (and have a really fun time using a shell to go through my work!) or email me at **joelbcasp [at] gmail [dot] com**.
+To look through my experiences and skills, hop on by www.joelb.co or email me at **joelbcasp [at] gmail [dot] com**.
 
 Have a look at my projects below!! (✿◠‿◠)
 
